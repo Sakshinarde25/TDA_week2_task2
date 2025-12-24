@@ -1,0 +1,14 @@
+Test Case 1:
+Input: Marks = 95
+Expected Grade: A
+Status: Passed
+
+Test Case 2:
+Input: Marks = 85
+Expected Grade: B
+Status: Passed
+
+Test Case 3:
+Input: Marks = -5
+Expected: Invalid Input
+Status: Passed
